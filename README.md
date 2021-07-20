@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AndrewJ99
-- 👀 I’m interested in ... Computers/AI/UXDesign/DataScience/GameDevelopment
-- 🌱 I’m currently learning ... ComputerScience, Webdevelopment, UXDesign(side hobby)
-- 💞️ I’m looking to collaborate on ...
+- Hi, I’m @AndrewJ99
+- I’m interested in ... Computers/AI/UXDesign/DataScience/GameDevelopment
+- I’m currently learning ... ComputerScience, Webdevelopment, UXDesign(side hobby)
 - 📫 How to reach me ... drewjarmin@gmail.com
 
 <!---
